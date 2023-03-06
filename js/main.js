@@ -4,7 +4,7 @@
     /*-------------------------------------
      jQuery MeanMenu
      -------------------------------------*/
-    $('nav#dropdown').meanmenu({ siteLogo: "<a href='index.html' class='mobile-site-logo'><img src='img/logo.png' /></a>" });
+    $('nav#dropdown').meanmenu({ siteLogo: "<a href='index.html' class='mobile-site-logo'><img class='img-responsive' src='img/agroworld-logo.png' /></a>" });
 
     /*-------------------------------------
      Wow js Active
